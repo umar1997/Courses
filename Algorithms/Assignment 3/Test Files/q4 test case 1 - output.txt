@@ -1,0 +1,5 @@
+xi = x3
+xj = x5
+Value of nodes in Ancestry (x3) = {16, 7, 20, 17}
+Value of nodes in Ancestry (x5) = {18, 35, 4, 17}
+Value of Max Ancestry (x3, x5) = 117

@@ -1,0 +1,2 @@
+Optimal cut ordering: 12 7 3
+Least cost: 39

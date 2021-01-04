@@ -1,0 +1,6 @@
+SELECT CURRENT_USER; # Shows the current User of the Database.
+Go to my.ini in C:\ProgramData\MySQL\MySQL Server 8.0 and change the default_authentication_plugin = mysql_native_password
+Win + R >> services.msc >> Restart MySQL 80
+ALTER USER 'root'@'localhost' IDENTIFIED BY 'password' PASSWORD EXPIRE NEVER;
+ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY 'new_password';
+	

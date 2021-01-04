@@ -1,0 +1,2 @@
+Optimal cut ordering: 40 15 3 72 61
+Least cost: 247

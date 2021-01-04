@@ -1,0 +1,16 @@
+Week1: High 325
+Week2: Priming
+Week3: High 200
+Week4: Priming
+Week5: High 270
+Week6: Low 82
+Week7: Low 415
+Week8: Low 340
+Week9: Priming
+Week10: High 254
+Week11: Priming
+Week12: High 349
+Week13: Priming
+Week14: High 450
+Week15: Low 139
+Total Revenue: 2824

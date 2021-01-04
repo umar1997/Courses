@@ -1,0 +1,9 @@
+The Algorithm works in the following way: 
+1) Start with full tank 
+2) Fill the tank to a limit where the final destination is reachable. If the tank is not reachable with current tank capacity then just fill the tank to full. 
+3) Move to next destination and decrease the tank accordingly until the next destination is not reachable. Move to Step 2 if final destination is not reached and next stop is also not reachable. Else move to step 4. 
+4) Final destination is reached. Let there be a station O where the car stops which is more optimal than the location stopped in A. 
+The location O can be either of the two: 
+1) O is reached before A, which makes O less optimal than A as the car stopping at O increases time while at A you don’t stop at all. Making A more optimal than O.
+2) O is reached after A. This contradicts our algorithm as in our algorithm the car only stops when the next destination is not reachable. So O would have only been made reachable if the car in Optimal solution already stopped before to fuel up. Which makes time taken to reach lesser than O, making A a more optimal location to stop at as compared to O. 
+So this proves that our algorithm is as optimal or better performing than that of optimal solution. 

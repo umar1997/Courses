@@ -1,0 +1,12 @@
+A A -1 B C C D D
+A F B B C E E D
+G F F H I I E J
+G G H H K I J J
+L L M K K N O O
+L Q M M N N T O
+P Q Q R S T T U
+P P R R S S U U
+
+---------------------------------------------------
+
+Note: -1 represents the blank cell

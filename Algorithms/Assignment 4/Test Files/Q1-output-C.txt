@@ -1,0 +1,6 @@
+Week1: Low 20
+Week2: Low 15
+Week3: Low 65
+Week4: Low 100
+Week5: Low 60
+Total Revenue: 260

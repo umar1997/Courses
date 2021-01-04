@@ -1,0 +1,4 @@
+POSSIBLE
+S1: 13 14 34 12 sum=73
+S2: 3 6 sum=9
+Differece: 73-9 = 64

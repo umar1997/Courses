@@ -1,0 +1,79 @@
+COMMUNITY_AREA_NUMBER,COMMUNITY_AREA_NAME,PER_CAPITA_INCOME,HARDSHIP_INDEX
+1,Rogers Park,23939,39
+2,West Ridge,23040,46
+3,Uptown,35787,20
+4,Lincoln Square,37524,17
+5,North Center,57123,6
+6,Lake View,60058,5
+7,Lincoln Park,71551,2
+8,Near North Side,88669,1
+9,Edison Park,40959,8
+10,Norwood Park,32875,21
+11,Jefferson Park,27751,25
+12,Forest Glen,44164,11
+13,North Park,26576,33
+14,Albany Park,21323,53
+15,Portage Park,24336,35
+16,Irving Park,27249,34
+17,Dunning,26282,28
+18,Montclaire,22014,50
+19,Belmont Cragin,15461,70
+20,Hermosa,15089,71
+21,Avondale,20039,42
+22,Logan Square,31908,23
+23,Humboldt park,13781,85
+24,West Town,43198,10
+25,Austin,15957,73
+26,West Garfield Park,10934,92
+27,East Garfield Park,12961,83
+28,Near West Side,44689,15
+29,North Lawndale,12034,87
+30,South Lawndale,10402,96
+31,Lower West Side,16444,76
+32,Loop,65526,3
+33,Near South Side,59077,7
+34,Armour Square,16148,82
+35,Douglas,23791,47
+36,Oakland,19252,78
+37,Fuller Park,10432,97
+38,Grand Boulevard,23472,57
+39,Kenwood,35911,26
+40,Washington Park,13785,88
+41,Hyde Park,39056,14
+42,Woodlawn,18672,58
+43,South Shore,19398,55
+44,Chatham,18881,60
+45,Avalon Park,24454,41
+46,South Chicago,16579,75
+47,Burnside,12515,79
+48,Calumet Heights,28887,38
+49,Roseland,17949,52
+50,Pullman,20588,51
+51,South Deering,14685,65
+52,East Side,17104,64
+53,West Pullman,16563,62
+54,Riverdale,8201,98
+55,Hegewisch,22677,44
+56,Garfield Ridge,26353,32
+57,Archer Heights,16134,67
+58,Brighton Park,13089,84
+59,McKinley Park,16954,61
+60,Bridgeport,22694,43
+61,New City,12765,91
+62,West Elsdon,15754,69
+63,Gage Park,12171,93
+64,Clearing,25113,29
+65,West Lawn,16907,56
+66,Chicago Lawn,13231,80
+67,West Englewood,11317,89
+68,Englewood,11888,94
+69,Greater Grand Crossing,17285,66
+70,Ashburn,23482,37
+71,Auburn Gresham,15528,74
+72,Beverly,39523,12
+73,Washington Height,19713,48
+74,Mount Greenwood,34381,16
+75,Morgan Park,27149,30
+76,O'Hare,25828,24
+77,Edgewater,33385,19
+78,CHICAGO,28202,54

@@ -1,0 +1,567 @@
+School_ID,NAME_OF_SCHOOL,City,HEALTHY_SCHOOL_CERTIFIED,SAFETY_SCORE,COLLEGE_ENROLLMENT,COMMUNITY_AREA_NUMBER,COMMUNITY_AREA_NAME
+610038,Abraham Lincoln Elementary School,Chicago,Yes,99,813,7,LINCOLN PARK
+610281,Adam Clayton Powell Paideia Community Academy Elementary School,Chicago,No,54,521,43,SOUTH SHORE
+610185,Adlai E Stevenson Elementary School,Chicago,No,61,1324,70,ASHBURN
+609993,Agustin Lara Elementary Academy,Chicago,No,56,556,61,NEW CITY
+610513,Air Force Academy High School,Chicago,Yes,49,302,34,ARMOUR SQUARE
+610212,Albany Park Multicultural Academy,Chicago,No,66,266,14,ALBANY PARK
+609720,Albert G Lane Technical High School,Chicago,No,88,4368,5,NORTH CENTER
+610342,Albert R Sabin Elementary Magnet School,Chicago,No,67,620,24,WEST TOWN
+610524,Alcott High School for the Humanities,Chicago,No,70,232,5,NORTH CENTER
+610209,Alessandro Volta Elementary School,Chicago,No,43,1023,14,ALBANY PARK
+609799,Alexander Graham Bell Elementary School,Chicago,No,99,998,5,NORTH CENTER
+609947,Alexander Graham Elementary School,Chicago,No,49,476,61,NEW CITY
+609963,Alexander Hamilton Elementary School,Chicago,No,73,307,6,LAKE VIEW
+610210,Alexander von Humboldt Elementary School,Chicago,No,31,398,24,WEST TOWN
+609808,Alex Haley Elementary Academy,Chicago,No,28,525,49,ROSELAND
+610028,Alfred David Kohn Elementary School,Chicago,No,19,428,49,ROSELAND
+610098,Alfred Nobel Elementary School,Chicago,No,37,801,23,HUMBOLDT PARK
+609788,Alice L Barnard Computer Math & Science Center Elementary School,Chicago,No,46,274,72,BEVERLY
+610334,Al Raby High School,Chicago,No,52,551,27,EAST GARFIELD PARK
+610131,Ambrose Plamondon Elementary School,Chicago,No,45,171,29,NORTH LAWNDALE
+610316,Amelia Earhart Options for Knowledge Elementary School,Chicago,No,81,264,48,CALUMET HEIGHTS
+609780,Ames Middle School,Chicago,No,38,586,22,LOGAN SQUARE
+610339,Amos Alonzo Stagg Elementary School,Chicago,No,23,539,68,ENGLEWOOD
+610320,Ana Roque de Duprey Elementary School,Chicago,Yes,57,114,24,WEST TOWN
+609837,Andrew Carnegie Elementary School,Chicago,No,48,730,42,WOODLAWN
+610060,Andrew Jackson Elementary Language Academy,Chicago,No,86,556,28,NEAR WEST SIDE
+609869,Anna R. Langford Community Academy,Chicago,No,31,339,67,WEST ENGLEWOOD
+610084,Annie Keller Elementary Gifted Magnet School,Chicago,No,99,245,74,MOUNT GREENWOOD
+610229,A.N. Pritzker School,Chicago,No,59,669,24,WEST TOWN
+610277,Anthony Overton Elementary School,Chicago,No,32,436,38,GRAND BOULEVARD
+609951,Ariel Elementary Community Academy,Chicago,No,45,550,39,KENWOOD
+610161,Arna Wendell Bontemps Elementary School,Chicago,No,33,345,67,WEST ENGLEWOOD
+610171,Arnold Mireles Elementary Academy,Chicago,No,27,905,46,SOUTH CHICAGO
+610037,Arthur A Libby Elementary School,Chicago,No,36,539,61,NEW CITY
+609887,Arthur Dixon Elementary School,Chicago,No,47,652,44,CHATHAM
+609836,Arthur E Canty Elementary School,Chicago,No,87,784,17,DUNNING
+610268,Arthur R Ashe Elementary School,Chicago,No,45,459,44,CHATHAM
+609941,Asa Philip Randolph Elementary School,Chicago,No,15,573,67,WEST ENGLEWOOD
+610287,Ashburn Community Elementary School,Chicago,No,48,490,70,ASHBURN
+609820,Augustus H Burley Elementary School,Chicago,No,99,572,6,LAKE VIEW
+400018,Austin Business and Entrepreneurship Academy High School,Chicago,No,38,316,25,AUSTIN
+610169,Austin O Sexton Elementary School,Chicago,No,23,337,42,WOODLAWN
+610501,Austin Polytechnical Academy High School,Chicago,No,38,250,25,AUSTIN
+609786,Avalon Park Elementary School,Chicago,No,32,398,45,AVALON PARK
+609871,Barbara Vick Early Childhood & Family Center,Chicago,No,45,204,75,MORGAN PARK
+609922,Belmont-Cragin Elementary School,Chicago,No,75,634,19,BELMONT CRAGIN
+609764,Benito Juarez Community Academy High School,Chicago,No,46,1683,31,LOWER WEST SIDE
+610265,Benjamin Banneker Elementary School,Chicago,No,36,302,68,ENGLEWOOD
+610290,Benjamin E Mays Elementary Academy,Chicago,No,27,301,68,ENGLEWOOD
+610076,Bernhard Moos Elementary School,Chicago,No,50,429,24,WEST TOWN
+610150,Betsy Ross Elementary School,Chicago,No,39,350,40,WASHINGTON PARK
+610175,Beulah Shoesmith Elementary School,Chicago,No,45,325,39,KENWOOD
+610087,Blair Early Childhood Center,Chicago,No,45,137,64,CLEARING
+609969,Bret Harte Elementary School,Chicago,No,63,340,41,HYDE PARK
+610106,Brian Piccolo Elementary Specialty School,Chicago,No,27,549,23,HUMBOLDT PARK
+610317,Brighton Park Elementary School,Chicago,No,55,691,58,BRIGHTON PARK
+610381,Bronzeville Scholastic Academy High School,Chicago,No,41,550,38,GRAND BOULEVARD
+609821,Burnham Elementary Inclusive Academy,Chicago,No,61,286,51,SOUTH DEERING
+609827,Burnside Elementary Scholastic Academy,Chicago,No,51,766,44,CHATHAM
+610353,Calmeca Academy of Fine Arts and Dual Language,Chicago,Yes,58,792,58,BRIGHTON PARK
+609729,Carl Schurz High School,Chicago,No,48,2366,16,IRVING PARK
+610039,Carl von Linne Elementary School,Chicago,No,68,644,21,AVONDALE
+610238,Carrie Jacobs Bond Elementary School,Chicago,No,54,343,68,ENGLEWOOD
+609839,Carroll-Rosenwald Specialty Elementary School,Chicago,No,35,537,70,ASHBURN
+610345,Carter G Woodson South Elementary School,Chicago,No,26,329,38,GRAND BOULEVARD
+610148,Cesar E Chavez Multicultural Academic Center Elementary School,Chicago,No,54,915,61,NEW CITY
+609679,Charles Allen Prosser Career Academy High School,Chicago,No,59,1415,19,BELMONT CRAGIN
+610005,Charles Evans Hughes Elementary School,Chicago,No,42,315,29,NORTH LAWNDALE
+609879,Charles Gates Dawes Elementary School,Chicago,No,44,1032,70,ASHBURN
+609966,Charles G Hammond Elementary School,Chicago,No,40,446,30,SOUTH LAWNDALE
+610366,Charles H Wacker Elementary School,Chicago,No,32,246,73,WASHINGTON HEIGHTS
+610030,Charles Kozminski Elementary Community Academy,Chicago,No,36,403,41,HYDE PARK
+609996,Charles N Holden Elementary School,Chicago,No,53,600,60,BRIDGEPORT
+609833,Charles P Caldwell Academy of Math & Science Elementary School,Chicago,No,25,291,45,AVALON PARK
+609732,Charles P Steinmetz Academic Centre High School,Chicago,No,26,1890,19,BELMONT CRAGIN
+609875,Charles R Darwin Elementary School,Chicago,No,58,622,22,LOGAN SQUARE
+609986,Charles R Henderson Elementary School,Chicago,No,16,407,67,WEST ENGLEWOOD
+609813,Charles S Brownell Elementary School,Chicago,No,20,310,69,GREATER GRAND CROSSING
+609883,Charles S Deneen Elementary School,Chicago,No,55,551,69,GREATER GRAND CROSSING
+610194,Charles Sumner  Math & Science Community Acad Elementary School,Chicago,No,41,430,26,WEST GARFIELD PARK
+609897,Charles W Earle Elementary School,Chicago,No,24,331,67,WEST ENGLEWOOD
+610248,Chicago Academy Elementary School,Chicago,No,66,601,17,DUNNING
+610340,Chicago Academy High School,Chicago,No,58,502,17,DUNNING
+609753,Chicago High School for Agricultural Sciences,Chicago,No,87,579,74,MOUNT GREENWOOD
+609754,Chicago Military Academy High School,Chicago,No,32,483,35,DOUGLAS
+609674,Chicago Vocational Career Academy High School,Chicago,No,27,833,45,AVALON PARK
+609899,Christian Ebinger Elementary School,Chicago,No,78,650,9,EDISON PARK
+609705,Christian Fenger Academy High School,Chicago,No,36,688,49,ROSELAND
+609863,Christopher Columbus Elementary School,Chicago,No,66,309,24,WEST TOWN
+609790,Clara Barton Elementary School,Chicago,No,25,602,71,AUBURN GRESHAM
+610347,Claremont Academy Elementary School,Chicago,No,36,531,66,CHICAGO LAWN
+610499,Collins Academy High School,Chicago,No,60,409,29,NORTH LAWNDALE
+610170,Columbia Explorers Elementary Academy,Chicago,No,59,1038,58,BRIGHTON PARK
+610004,Countee Cullen Elementary School,Chicago,No,14,233,49,ROSELAND
+609781,Crispus Attucks Elementary School,Chicago,No,45,274,38,GRAND BOULEVARD
+609873,Crown Community Academy of Fine Arts Center Elementary School,Chicago,No,27,298,29,NORTH LAWNDALE
+610063,Cyrus H McCormick Elementary School,Chicago,Yes,45,894,30,SOUTH LAWNDALE
+609804,Daniel Boone Elementary School,Chicago,No,52,752,2,WEST RIDGE
+610083,Daniel C Beard Elementary School,Chicago,No,45,160,10,NORWOOD PARK
+610380,Daniel Hale Williams Prep School of Medicine,Chicago,No,50,324,38,GRAND BOULEVARD
+609870,Daniel J Corkery Elementary School,Chicago,No,39,631,30,SOUTH LAWNDALE
+609835,Daniel R Cameron Elementary School,Chicago,No,42,828,23,HUMBOLDT PARK
+610223,Daniel S Wentworth Elementary School,Chicago,No,30,365,68,ENGLEWOOD
+610221,Daniel Webster Elementary School,Chicago,No,48,370,26,WEST GARFIELD PARK
+609704,David G Farragut Career Academy High School,Chicago,No,43,1456,30,SOUTH LAWNDALE
+610402,DeVry University Advantage Academy High School,Chicago,No,45,200,5,NORTH CENTER
+609885,Dewey Elementary Academy of Fine Arts,Chicago,No,41,357,61,NEW CITY
+609859,DeWitt Clinton Elementary School,Chicago,No,47,1139,2,WEST RIDGE
+610515,Disney II Magnet School,Chicago,No,45,363,16,IRVING PARK
+610077,Donald Morrill Math & Science Elementary School,Chicago,No,28,823,66,CHICAGO LAWN
+610198,Douglas Taylor Elementary School,Chicago,No,34,632,52,EAST SIDE
+610533,Dr Jorge Prieto Math and Science,Chicago,No,45,1001,19,BELMONT CRAGIN
+609751,Dr  Martin Luther King  Jr  College Prep High School,Chicago,No,45,915,39,KENWOOD
+610266,Dumas Technology Academy,Chicago,No,19,381,42,WOODLAWN
+610188,Dunne Technology Academy,Chicago,No,46,310,49,ROSELAND
+610352,Durkin Park Elementary School,Chicago,No,61,543,70,ASHBURN
+610254,Dvorak Technology Academy,Chicago,No,46,556,29,NORTH LAWNDALE
+609736,Dyett High School,Chicago,No,27,318,40,WASHINGTON PARK
+610132,Edgar Allan Poe Elementary Classical School,Chicago,No,99,192,50,PULLMAN
+609901,Edgebrook Elementary School,Chicago,No,99,468,12,FOREST GLEN
+610523,Edison Park Elementary School,Chicago,No,95,431,10,NORWOOD PARK
+609819,Edmond Burke Elementary School,Chicago,No,1,244,40,WASHINGTON PARK
+609815,Edward A Bouchet Math & Science Academy Elementary School,Chicago,No,33,783,43,SOUTH SHORE
+610246,Edward Beasley Elementary Magnet Academic Center,Chicago,No,47,1365,40,WASHINGTON PARK
+609881,Edward C Delano Elementary School,Chicago,No,38,414,26,WEST GARFIELD PARK
+609862,Edward Coles Elementary Language Academy,Chicago,No,22,554,46,SOUTH CHICAGO
+609909,Edward Everett Elementary School,Chicago,No,45,321,59,MCKINLEY PARK
+610012,Edward Jenner Elementary Academy of the Arts,Chicago,No,50,314,8,NEAR NORTH SIDE
+609904,Edward K Ellington Elementary School,Chicago,No,30,377,25,AUSTIN
+610006,Edward N Hurley Elementary School,Chicago,No,77,830,65,WEST LAWN
+609735,Edward Tilden Career Community Academy High School,Chicago,No,34,461,61,NEW CITY
+610315,Edward White Elementary Career Academy,Chicago,No,27,138,53,WEST PULLMAN
+609708,Edwin G Foreman High School,Chicago,No,26,1716,15,PORTAGE PARK
+609913,Elaine O Goodlow Elementary Magnet School,Chicago,No,44,419,67,WEST ENGLEWOOD
+610233,Elihu Yale Elementary School,Chicago,No,29,182,69,GREATER GRAND CROSSING
+610227,Eli Whitney Elementary School,Chicago,Yes,44,1133,30,SOUTH LAWNDALE
+610195,Elizabeth H Sutherland Elementary School,Chicago,No,86,762,72,BEVERLY
+610119,Elizabeth Peabody Elementary School,Chicago,No,51,289,24,WEST TOWN
+609852,Eliza Chappell Elementary School,Chicago,No,70,451,4,LINCOLN SQUARE
+610235,Ella Flagg Young Elementary School,Chicago,No,31,1111,25,AUSTIN
+609682,Ellen H Richards Career Academy High School,Chicago,No,30,473,61,NEW CITY
+610073,Ellen Mitchell Elementary School,Chicago,No,99,344,24,WEST TOWN
+609712,Emil G Hirsch Metropolitan High School,Chicago,No,13,458,69,GREATER GRAND CROSSING
+609973,Emiliano Zapata Elementary Academy,Chicago,No,60,988,30,SOUTH LAWNDALE
+610065,Emmett Louis Till Math and Science Academy,Chicago,No,31,471,42,WOODLAWN
+609916,Enrico Fermi Elementary School,Chicago,No,30,238,43,SOUTH SHORE
+610203,Enrico Tonti Elementary School,Chicago,No,45,1021,63,GAGE PARK
+610543,Eric Solorio Academy High School,Chicago,No,67,581,63,GAGE PARK
+610137,Ernst Prussing Elementary School,Chicago,No,71,672,15,PORTAGE PARK
+609908,Esmond Elementary School,Chicago,No,36,342,75,MORGAN PARK
+609918,Eugene Field Elementary School,Chicago,No,42,375,1,ROGERS PARK
+609874,Everett McKinley Dirksen Elementary School,Chicago,No,44,786,76,OHARE
+610319,Evergreen Academy Middle School,Chicago,No,60,389,59,MCKINLEY PARK
+610057,Fairfield Elementary Academy,Chicago,No,31,604,66,CHICAGO LAWN
+610541,Federico Garcia Lorca Elementary School,Chicago,No,53,860,21,AVONDALE
+610308,Wilma Rudolph Elementary Learning Center,Chicago,No,45,100,28,NEAR WEST SIDE
+610120,Ferdinand Peck Elementary School,Chicago,No,51,1560,62,WEST ELSDON
+609917,Fernwood Elementary School,Chicago,No,29,344,73,WASHINGTON HEIGHTS
+610258,Florence B Price Elementary School,Chicago,No,20,112,39,KENWOOD
+610096,Florence Nightingale Elementary School,Chicago,No,35,1382,63,GAGE PARK
+609924,Fort Dearborn Elementary School,Chicago,No,34,478,73,WASHINGTON HEIGHTS
+609927,Foster Park Elementary School,Chicago,No,11,418,71,AUBURN GRESHAM
+610215,Francisco I Madero Middle School,Chicago,Yes,49,314,30,SOUTH LAWNDALE
+610067,Francis M McKay Elementary School,Chicago,No,23,891,66,CHICAGO LAWN
+610114,Francis Parkman Elementary School,Chicago,No,38,224,37,FULLER PARK
+610020,Francis Scott Key Elementary School,Chicago,No,37,301,25,AUSTIN
+610112,Francis W Parker Elementary Community Academy,Chicago,No,30,808,68,ENGLEWOOD
+609800,Frank I Bennett Elementary School,Chicago,No,46,504,49,ROSELAND
+609939,Frank L Gillespie Elementary School,Chicago,No,27,609,49,ROSELAND
+609926,Franklin Elementary Fine Arts Center,Chicago,No,87,363,8,NEAR NORTH SIDE
+609958,Frank W Gunsaulus Elementary Scholastic Academy,Chicago,No,46,867,58,BRIGHTON PARK
+610144,Frank W Reilly Elementary School,Chicago,No,48,1195,21,AVONDALE
+610165,Franz Peter Schubert Elementary School,Chicago,No,45,949,19,BELMONT CRAGIN
+610503,Frazier Prospective IB Magnet Elementary School,Chicago,No,60,220,29,NORTH LAWNDALE
+609854,Frederic Chopin Elementary School,Chicago,No,86,269,24,WEST TOWN
+610245,Frederick A Douglass Academy High School,Chicago,No,44,354,25,AUSTIN
+609930,Frederick Funston Elementary School,Chicago,No,16,619,22,LOGAN SQUARE
+610163,Frederick Stock Elementary School,Chicago,No,45,260,9,EDISON PARK
+610010,Friedrich Ludwig Jahn Elementary School,Chicago,No,72,495,5,NORTH CENTER
+609737,Friedrich W von Steuben Metropolitan Science High School,Chicago,No,70,1636,13,NORTH PARK
+609709,Gage Park High School,Chicago,No,14,1052,63,GAGE PARK
+610009,Galileo Math & Science Scholastic Academy Elementary School,Chicago,No,65,606,28,NEAR WEST SIDE
+610072,Garrett A Morgan Elementary School,Chicago,No,28,237,71,AUBURN GRESHAM
+610293,Genevieve Melody Elementary School,Chicago,No,61,315,26,WEST GARFIELD PARK
+609779,George Armstrong International Studies Elementary School,Chicago,No,59,1509,2,WEST RIDGE
+610062,George B McClellan Elementary School,Chicago,No,49,283,60,BRIDGEPORT
+610196,George B Swift Elementary Specialty School,Chicago,No,61,709,77,EDGEWATER
+609849,George F Cassell Elementary School,Chicago,No,76,358,74,MOUNT GREENWOOD
+609761,George H Corliss High School,Chicago,No,33,621,50,PULLMAN
+610305,George Leland Elementary School,Chicago,No,45,182,25,AUSTIN
+610048,George Manierre Elementary School,Chicago,No,43,396,8,NEAR NORTH SIDE
+610139,George M Pullman Elementary School,Chicago,No,59,259,50,PULLMAN
+609795,George Rogers Clark Elementary School,Chicago,No,39,297,25,AUSTIN
+609760,George Washington Carver Military Academy High School,Chicago,No,53,532,54,RIVERDALE
+609845,George Washington Carver Primary School,Chicago,No,25,546,54,RIVERDALE
+610219,George Washington Elementary School,Chicago,No,58,813,52,EAST SIDE
+609739,George Washington High School,Chicago,No,46,1524,52,EAST SIDE
+609900,George W Curtis Elementary School,Chicago,No,23,504,49,ROSELAND
+609693,George Westinghouse High School,Chicago,No,74,828,23,HUMBOLDT PARK
+610202,George W Tilton Elementary School,Chicago,No,6,321,26,WEST GARFIELD PARK
+609920,Gerald Delgado Kanoon Elementary Magnet School,Chicago,No,44,713,30,SOUTH LAWNDALE
+610187,Graeme Stewart Elementary School,Chicago,No,49,280,3,UPTOWN
+610285,Granville T Woods Math & Science Academy Elementary School,Chicago,No,35,402,67,WEST ENGLEWOOD
+610383,Greater Lawndale High School For Social Justice,Chicago,No,43,371,30,SOUTH LAWNDALE
+609857,Grover Cleveland Elementary School,Chicago,No,64,688,16,IRVING PARK
+610241,Guglielmo Marconi Elementary Community Academy,Chicago,No,26,245,26,WEST GARFIELD PARK
+609741,Gurdon S Hubbard High School,Chicago,No,42,1672,65,WEST LAWN
+609726,Gwendolyn Brooks College Preparatory Academy High School,Chicago,No,64,783,49,ROSELAND
+610182,Hannah G Solomon Elementary School,Chicago,No,78,363,13,NORTH PARK
+610068,Hanson Park Elementary School,Chicago,No,35,1499,19,BELMONT CRAGIN
+610124,Harold Washington Elementary School,Chicago,No,28,549,47,BURNSIDE
+610192,Harriet Beecher Stowe Elementary School,Chicago,No,28,893,23,HUMBOLDT PARK
+610158,Harriet E Sayre Elementary Language Academy,Chicago,No,68,605,25,AUSTIN
+609974,Hawthorne Elementary Scholastic Academy,Chicago,Yes,92,569,6,LAKE VIEW
+609985,Helen M Hefferan Elementary School,Chicago,No,29,259,26,WEST GARFIELD PARK
+610122,Helen Peirce International Studies Elementary School,Chicago,No,58,977,77,EDGEWATER
+609972,Helge A Haugan Elementary School,Chicago,No,43,1299,14,ALBANY PARK
+609856,Henry Clay Elementary School,Chicago,No,38,633,55,HEGEWISCH
+610040,Henry D Lloyd Elementary School,Chicago,No,45,1334,19,BELMONT CRAGIN
+610092,Henry H Nash Elementary School,Chicago,No,41,393,25,AUSTIN
+610279,Henry O Tanner Elementary School,Chicago,No,33,448,69,GREATER GRAND CROSSING
+609861,Henry R Clissold Elementary School,Chicago,No,45,588,75,MORGAN PARK
+610297,High School of Leadership at South Shore,Chicago,No,45,731,43,SOUTH SHORE
+609798,Hiram H Belding Elementary School,Chicago,No,64,672,16,IRVING PARK
+609768,Hope College Preparatory High School,Chicago,No,31,561,68,ENGLEWOOD
+609850,Horace Greeley Elementary School,Chicago,No,65,611,6,LAKE VIEW
+610052,Horace Mann Elementary School,Chicago,No,28,472,46,SOUTH CHICAGO
+610058,Horatio May Elementary Community Academy,Chicago,No,42,458,25,AUSTIN
+609713,Hyde Park Academy High School,Chicago,No,29,1518,42,WOODLAWN
+610390,Hyman G Rickover Naval Academy High School,Chicago,No,64,423,77,EDGEWATER
+610110,Ida B Wells Preparatory Elementary Academy,Chicago,No,49,215,35,DOUGLAS
+610273,Ignance Paderewski Elementary Learning Academy,Chicago,No,31,130,30,SOUTH LAWNDALE
+610384,Infinity Math Science and Technology High School,Chicago,No,58,388,30,SOUTH LAWNDALE
+610078,Inter-American Elementary Magnet School,Chicago,No,67,690,6,LAKE VIEW
+609848,Ira F Aldridge Elementary School,Chicago,No,39,285,54,RIVERDALE
+610532,Irene C. Hernandez Middle School for the Advancement of Science,Chicago,No,34,970,63,GAGE PARK
+610125,Irma C Ruiz Elementary School,Chicago,Yes,57,916,31,LOWER WEST SIDE
+610276,Irvin C Mollison Elementary School,Chicago,No,44,244,38,GRAND BOULEVARD
+610103,Isabelle C O'Keeffe Elementary School,Chicago,No,17,575,43,SOUTH SHORE
+610256,Jackie Robinson Elementary School,Chicago,No,45,140,36,OAKLAND
+609797,Jacob Beidler Elementary School,Chicago,No,63,411,27,EAST GARFIELD PARK
+609766,Jacqueline B Vaughn Occupational High School,Chicago,No,57,203,15,PORTAGE PARK
+609912,James B Farnsworth Elementary School,Chicago,Yes,55,574,11,JEFFERSON PARK
+610070,James B McPherson Elementary School,Chicago,No,71,695,4,LINCOLN SQUARE
+610066,James E McDade Elementary Classical School,Chicago,No,99,199,44,CHATHAM
+609803,James G Blaine Elementary School,Chicago,No,99,923,6,LAKE VIEW
+609983,James Hedges Elementary School,Chicago,No,22,845,61,NEW CITY
+610047,James Madison Elementary School,Chicago,No,39,317,43,SOUTH SHORE
+610074,James Monroe Elementary School,Chicago,No,45,1125,22,LOGAN SQUARE
+610200,James N Thorp Elementary School,Chicago,No,32,449,46,SOUTH CHICAGO
+610107,James Otis Elementary School,Chicago,No,83,491,24,WEST TOWN
+609891,James R Doolittle Jr Elementary School,Chicago,No,30,306,35,DOUGLAS
+610044,James Russell Lowell Elementary School,Chicago,No,39,593,23,HUMBOLDT PARK
+610174,James Shields Elementary School,Chicago,No,38,1834,58,BRIGHTON PARK
+610213,James Wadsworth Elementary School,Chicago,No,45,277,42,WOODLAWN
+610217,James Ward Elementary School,Chicago,No,49,492,34,ARMOUR SQUARE
+610274,James Weldon Johnson Elementary School,Chicago,No,67,365,29,NORTH LAWNDALE
+609772,Jane Addams Elementary School,Chicago,No,56,928,52,EAST SIDE
+610093,Jane A Neil Elementary School,Chicago,No,42,306,44,CHATHAM
+609796,Jean Baptiste Beaubien Elementary School,Chicago,No,63,1181,11,JEFFERSON PARK
+610031,Jean D Lafayette Elementary School,Chicago,No,44,474,24,WEST TOWN
+610271,Jensen Elementary Scholastic Academy,Chicago,No,35,364,27,EAST GARFIELD PARK
+609932,Jesse Owens Elementary Community Academy,Chicago,No,45,340,53,WEST PULLMAN
+610173,Jesse Sherwood Elementary School,Chicago,No,38,355,68,ENGLEWOOD
+609942,Johann W von Goethe Elementary School,Chicago,No,75,786,22,LOGAN SQUARE
+610216,John A Walsh Elementary School,Chicago,Yes,60,501,31,LOWER WEST SIDE
+609789,John Barry Elementary School,Chicago,No,35,800,20,HERMOSA
+609894,John B Drake Elementary School,Chicago,No,59,249,35,DOUGLAS
+610089,John B Murphy Elementary School,Chicago,No,80,638,16,IRVING PARK
+610243,John Calhoun North Elementary School,Chicago,No,52,328,27,EAST GARFIELD PARK
+609829,John C Burroughs Elementary School,Chicago,Yes,50,510,58,BRIGHTON PARK
+609866,John C Coonley Elementary School,Chicago,No,87,668,5,NORTH CENTER
+609893,John C Dore Elementary School,Chicago,No,74,590,64,CLEARING
+609959,John Charles Haines Elementary School,Chicago,No,32,664,34,ARMOUR SQUARE
+610176,John D Shoop Math-Science Technical Academy Elementary School,Chicago,No,32,553,75,MORGAN PARK
+609898,John F Eberhart Elementary School,Chicago,No,42,1777,66,CHICAGO LAWN
+609919,John Fiske Elementary School,Chicago,No,13,254,42,WOODLAWN
+609718,John F Kennedy High School,Chicago,No,53,1589,56,GARFIELD RIDGE
+610263,John Foster Dulles Elementary School,Chicago,No,42,537,69,GREATER GRAND CROSSING
+610228,John Greenleaf Whittier Elementary School,Chicago,No,65,409,31,LOWER WEST SIDE
+609694,John Hancock College Preparatory High School,Chicago,No,51,967,62,WEST ELSDON
+609971,John Harvard Elementary School of Excellence,Chicago,No,51,476,69,GREATER GRAND CROSSING
+609975,John Hay Elementary Community Academy,Chicago,No,44,554,25,AUSTIN
+609964,John H Hamline Elementary School,Chicago,No,33,679,61,NEW CITY
+610026,John H Kinzie Elementary School,Chicago,No,64,733,56,GARFIELD RIDGE
+610207,John H Vanderpoel Elementary Magnet School,Chicago,No,74,317,72,BEVERLY
+609782,John J Audubon Elementary School,Chicago,No,95,580,5,NORTH CENTER
+610126,John J Pershing Elementary Humanities Magnet,Chicago,No,45,258,35,DOUGLAS
+610054,John L Marsh Elementary School,Chicago,No,72,841,51,SOUTH DEERING
+609723,John Marshall Metropolitan High School,Chicago,No,51,726,27,EAST GARFIELD PARK
+609710,John M Harlan Community Academy High School,Chicago,No,45,1245,49,ROSELAND
+609954,John Milton Gregory Elementary School,Chicago,No,44,323,27,EAST GARFIELD PARK
+610180,John M Smyth Elementary School,Chicago,No,37,475,28,NEAR WEST SIDE
+610199,Johnnie Colemon Elementary Academy,Chicago,No,60,266,53,WEST PULLMAN
+610111,John Palmer Elementary School,Chicago,No,75,919,14,ALBANY PARK
+609775,John P Altgeld Elementary School,Chicago,No,48,527,67,WEST ENGLEWOOD
+610184,John Spry Elementary Community School,Chicago,No,66,809,30,SOUTH LAWNDALE
+610269,John T McCutcheon Elementary School,Chicago,No,56,355,3,UPTOWN
+610130,John T Pirie Fine Arts & Academic Center Elementary School,Chicago,No,26,384,44,CHATHAM
+609864,John W Cook Elementary School,Chicago,No,45,482,71,AUBURN GRESHAM
+609937,John W Garvy Elementary School,Chicago,No,60,720,10,NORWOOD PARK
+610225,John Whistler Elementary School,Chicago,No,45,375,53,WEST PULLMAN
+609828,Jonathan Burr Elementary School,Chicago,No,71,348,24,WEST TOWN
+610159,Jonathan Y Scammon Elementary School,Chicago,No,44,937,16,IRVING PARK
+609865,Jordan Elementary Community School,Chicago,No,61,753,1,ROGERS PARK
+610313,Jose De Diego Elementary Community Academy,Chicago,Yes,57,869,24,WEST TOWN
+609950,Josefa Ortiz De Dominguez Elementary School,Chicago,No,45,793,30,SOUTH LAWNDALE
+610242,Joseph Brennemann Elementary School,Chicago,No,50,362,3,UPTOWN
+609938,Joseph E Gary Elementary School,Chicago,No,32,1204,30,SOUTH LAWNDALE
+610041,Josephine C Locke Elementary School,Chicago,No,57,1317,18,MONTCLARE
+610015,Joseph Jungman Elementary School,Chicago,No,36,286,31,LOWER WEST SIDE
+609925,Joseph Kellman Corporate Community Elementary School,Chicago,No,58,293,27,EAST GARFIELD PARK
+610043,Joseph Lovett Elementary School,Chicago,No,43,490,25,AUSTIN
+610189,Joseph Stockton Elementary School,Chicago,No,37,462,3,UPTOWN
+610218,Joseph Warren Elementary School,Chicago,No,33,328,48,CALUMET HEIGHTS
+610019,Joshua D Kershaw Elementary School,Chicago,No,62,262,68,ENGLEWOOD
+610129,Josiah Pickard Elementary School,Chicago,No,50,656,31,LOWER WEST SIDE
+610022,Joyce Kilmer Elementary School,Chicago,No,45,886,1,ROGERS PARK
+610253,Julia C Lathrop Elementary School,Chicago,No,67,83,29,NORTH LAWNDALE
+610000,Julia Ward Howe Elementary School of Excellence,Chicago,No,67,576,25,AUSTIN
+610280,Kate S Buckingham Special Education Center,Chicago,No,31,26,48,CALUMET HEIGHTS
+610016,Kate S Kellogg Elementary School,Chicago,No,76,283,72,BEVERLY
+609716,Kelvyn Park High School,Chicago,No,32,1252,20,HERMOSA
+609746,Kenwood Academy High School,Chicago,No,63,1852,39,KENWOOD
+609719,Lake View High School,Chicago,No,64,1500,6,LAKE VIEW
+610368,Langston Hughes Elementary School,Chicago,No,28,424,49,ROSELAND
+610033,LaSalle Elementary Language Academy,Chicago,No,99,576,7,LINCOLN PARK
+610520,LaSalle II Magnet Elementary School,Chicago,No,66,609,24,WEST TOWN
+609910,Laughlin Falconer Elementary School,Chicago,No,54,1520,19,BELMONT CRAGIN
+610133,Laura S Ward Elementary School,Chicago,No,45,429,23,HUMBOLDT PARK
+610034,Lawndale Elementary Community Academy,Chicago,No,45,508,29,NORTH LAWNDALE
+610024,Lazaro Cardenas Elementary School,Chicago,No,45,654,30,SOUTH LAWNDALE
+609907,Leif Ericson Elementary Scholastic Academy,Chicago,No,33,518,27,EAST GARFIELD PARK
+610298,Lenart Elementary Regional Gifted Center,Chicago,No,79,328,44,CHATHAM
+610036,Leslie Lewis Elementary School,Chicago,No,21,565,25,AUSTIN
+609738,Lincoln Park High School,Chicago,No,65,2342,7,LINCOLN PARK
+609807,Lionel Hampton Fine & Performing Arts Elementary School,Chicago,No,42,658,70,ASHBURN
+609834,Little Village Elementary School,Chicago,No,45,842,30,SOUTH LAWNDALE
+610325,Logandale Middle School,Chicago,No,56,941,21,AVONDALE
+609809,Lorenz Brentano Math & Science Academy Elementary School,Chicago,No,57,455,22,LOGAN SQUARE
+609773,Louis A Agassiz Elementary School,Chicago,No,53,432,6,LAKE VIEW
+609774,Louisa May Alcott Elementary School,Chicago,No,5,481,7,LINCOLN PARK
+610156,Louis Armstrong Math & Science Elementary School,Chicago,No,42,93,25,AUSTIN
+610094,Louis Nettelhorst Elementary School,Chicago,No,58,729,6,LAKE VIEW
+610117,Louis Pasteur Elementary School,Chicago,No,50,1173,62,WEST ELSDON
+610237,Ludwig Van Beethoven Elementary School,Chicago,No,40,411,38,GRAND BOULEVARD
+610108,Luke O'Toole Elementary School,Chicago,No,5,511,67,WEST ENGLEWOOD
+609818,Luther Burbank Elementary School,Chicago,No,37,1139,19,BELMONT CRAGIN
+609817,Lyman A Budlong Elementary School,Chicago,No,59,864,4,LINCOLN SQUARE
+610205,Lyman Trumbull Elementary School,Chicago,No,56,438,77,EDGEWATER
+610369,Mahalia Jackson Elementary School,Chicago,No,38,323,71,AUBURN GRESHAM
+610197,Mancel Talcott Elementary School,Chicago,No,63,580,24,WEST TOWN
+609722,Manley Career Academy High School,Chicago,No,41,599,27,EAST GARFIELD PARK
+609872,Manuel Perez Elementary School,Chicago,Yes,45,426,31,LOWER WEST SIDE
+610128,Marcus Moziah Garvey Elementary School,Chicago,No,50,356,73,WASHINGTON HEIGHTS
+610544,Mariano Azuela Elementary School,Chicago,No,54,873,65,WEST LAWN
+610017,Maria Saucedo Elementary Scholastic Academy,Chicago,No,60,1306,30,SOUTH LAWNDALE
+609756,Marie Sklodowska Curie Metropolitan High School,Chicago,No,43,3320,57,ARCHER HEIGHTS
+610502,Marine Military Math and Science Academy ,Chicago,No,41,366,28,NEAR WEST SIDE
+610081,Mark Sheridan Elementary Math & Science Academy,Chicago,No,74,535,60,BRIDGEPORT
+610177,Mark Skinner Elementary School,Chicago,No,87,784,28,NEAR WEST SIDE
+610206,Mark Twain Elementary School,Chicago,No,67,1161,56,GARFIELD RIDGE
+610053,Marquette Elementary School,Chicago,No,15,1390,66,CHICAGO LAWN
+610152,Martha Ruggles Elementary School,Chicago,No,43,417,69,GREATER GRAND CROSSING
+610154,Martin A Ryerson Elementary School,Chicago,No,40,445,23,HUMBOLDT PARK
+610539,Marvin Camras Elementary School,Chicago,No,54,826,19,BELMONT CRAGIN
+610355,Mary E Courtenay Elementary Language Arts Center,Chicago,No,99,257,6,LAKE VIEW
+610312,Mary E McDowell Elementary School,Chicago,No,45,188,48,CALUMET HEIGHTS
+610127,Mary Gage Peterson Elementary School,Chicago,No,62,860,13,NORTH PARK
+610046,Mary Lyon Elementary School,Chicago,No,55,1423,19,BELMONT CRAGIN
+609888,Mary Mapes Dodge Elementary Renaissance Academy,Chicago,No,57,434,27,EAST GARFIELD PARK
+610365,Mary McLeod Bethune Elementary School,Chicago,No,53,362,27,EAST GARFIELD PARK
+610535,Mason High School,Chicago,No,50,48,29,NORTH LAWNDALE
+610240,Matthew A Henson Elementary School,Chicago,No,37,271,29,NORTH LAWNDALE
+609935,Matthew Gallistel Elementary Language Academy,Chicago,No,49,1408,52,EAST SIDE
+610362,Medgar Evers Elementary School,Chicago,No,27,367,73,WASHINGTON HEIGHTS
+609928,Melville W Fuller Elementary School,Chicago,No,22,241,38,GRAND BOULEVARD
+610055,Michael Faraday Elementary School,Chicago,No,35,194,27,EAST GARFIELD PARK
+609832,Michael M Byrne Elementary School,Chicago,No,63,705,56,GARFIELD RIDGE
+610244,Michele Clark Academic Prep Magnet High School,Chicago,No,45,726,25,AUSTIN
+610208,Mildred I Lavizzo Elementary School,Chicago,No,15,394,49,ROSELAND
+609830,Milton Brunson Math & Science Specialty Elementary School ,Chicago,No,30,658,25,AUSTIN
+610011,Minnie Mars Jamieson Elementary School,Chicago,No,64,811,2,WEST RIDGE
+610018,Miriam G Canter Middle School,Chicago,No,57,222,39,KENWOOD
+609725,Morgan Park High School,Chicago,No,40,1584,75,MORGAN PARK
+610257,Morton School of Excellence,Chicago,No,53,349,23,HUMBOLDT PARK
+610075,Moses Montefiore Special Elementary School,Chicago,No,28,21,28,NEAR WEST SIDE
+610082,Mount Greenwood Elementary School,Chicago,No,84,909,74,MOUNT GREENWOOD
+610086,Mount Vernon Elementary School,Chicago,No,31,290,73,WASHINGTON HEIGHTS
+610385,Multicultural Academy of Scholarship,Chicago,No,48,324,30,SOUTH LAWNDALE
+609806,Myra Bradwell Communications Arts & Sciences Elementary School,Chicago,No,31,775,43,SOUTH SHORE
+609952,Nathanael Greene Elementary School,Chicago,Yes,45,631,59,MCKINLEY PARK
+609960,Nathan Hale Elementary School,Chicago,No,55,872,64,CLEARING
+610134,Nathaniel Pope Elementary School,Chicago,No,48,200,29,NORTH LAWNDALE
+610348,Nathan R Goldblatt Elementary School,Chicago,No,49,268,26,WEST GARFIELD PARK
+609876,Nathan S Davis Elementary School,Chicago,No,43,1032,58,BRIGHTON PARK
+610231,National Teachers Elementary Academy,Chicago,No,67,446,33,NEAR SOUTH SIDE
+609692,Neal F Simeon Career Academy High School,Chicago,No,52,1535,44,CHATHAM
+610085,Near North Elementary School,Chicago,No,50,91,24,WEST TOWN
+610284,New Field Elementary School,Chicago,No,45,696,1,ROGERS PARK
+610323,New Millennium High School of Health at Bowen,Chicago,No,17,701,46,SOUTH CHICAGO
+609792,Newton Bateman Elementary School,Chicago,No,55,1015,16,IRVING PARK
+609730,Nicholas Senn High School,Chicago,No,48,1053,77,EDGEWATER
+609793,Nicholson Technology Academy,Chicago,No,48,464,68,ENGLEWOOD
+609961,Ninos Heroes Elementary Academic Center,Chicago,No,36,435,46,SOUTH CHICAGO
+609810,Norman A Bridge Elementary School,Chicago,No,67,1004,17,DUNNING
+609691,North-Grand High School,Chicago,No,42,883,23,HUMBOLDT PARK
+610354,North River Elementary School,Chicago,No,67,359,14,ALBANY PARK
+609749,Northside College Preparatory High School,Chicago,No,99,1053,13,NORTH PARK
+609762,Percy L Julian High School,Chicago,No,28,1226,73,WASHINGTON HEIGHTS
+609744,Northside Learning Center High School,Chicago,No,99,298,13,NORTH PARK
+610051,Northwest Middle School,Chicago,No,34,756,19,BELMONT CRAGIN
+610099,Norwood Park Elementary School,Chicago,No,99,359,10,NORWOOD PARK
+610529,Ogden International High School,Chicago,No,56,558,24,WEST TOWN
+610201,Ole A Thorp Elementary Scholastic Academy,Chicago,No,70,834,17,DUNNING
+610300,Oliver S Westcott Elementary School,Chicago,No,30,413,44,CHATHAM
+609997,Oliver Wendell Holmes Elementary School,Chicago,No,21,334,68,ENGLEWOOD
+610105,Oriole Park Elementary School,Chicago,No,99,648,10,NORWOOD PARK
+610329,Orozco Fine Arts & Sciences Elementary School,Chicago,No,55,636,31,LOWER WEST SIDE
+610389,Orr Academy High School,Chicago,No,45,831,23,HUMBOLDT PARK
+609811,Orville T Bright Elementary School,Chicago,No,18,361,51,SOUTH DEERING
+610367,Oscar DePriest Elementary School,Chicago,No,35,524,25,AUSTIN
+610059,Oscar F Mayer Elementary School,Chicago,No,67,605,7,LINCOLN PARK
+610021,Pablo Casals Elementary School,Chicago,No,45,505,23,HUMBOLDT PARK
+610115,Park Manor Elementary School,Chicago,No,28,352,69,GREATER GRAND CROSSING
+610116,Parkside Elementary Community Academy,Chicago,No,45,348,43,SOUTH SHORE
+609988,Patrick Henry Elementary School,Chicago,No,45,650,16,IRVING PARK
+610003,Paul Cuffe Math-Science Technology Academy Elementary School,Chicago,No,51,512,71,AUBURN GRESHAM
+609676,Paul Laurence Dunbar Career Academy High School,Chicago,No,29,1456,35,DOUGLAS
+610146,Paul Revere Elementary School,Chicago,No,36,320,69,GREATER GRAND CROSSING
+609707,Paul Robeson High School,Chicago,No,29,733,68,ENGLEWOOD
+609791,Perkins Bass Elementary School,Chicago,No,28,369,68,ENGLEWOOD
+610395,Pershing West Middle School,Chicago,No,46,269,35,DOUGLAS
+610145,Peter A Reinberg Elementary School,Chicago,No,60,832,15,PORTAGE PARK
+609867,Peter Cooper Elementary Dual Language Academy,Chicago,No,45,709,31,LOWER WEST SIDE
+610147,Philip Rogers Elementary School,Chicago,No,81,735,2,WEST RIDGE
+609777,Phillip D Armour Elementary School,Chicago,No,36,365,60,BRIDGEPORT
+610090,Phillip Murray Elementary Language Academy,Chicago,No,66,533,41,HYDE PARK
+609981,Phobe Apperson Hearst Elementary School,Chicago,No,33,364,56,GARFIELD RIDGE
+610304,Phoenix Military Academy High School,Chicago,No,53,461,28,NEAR WEST SIDE
+610013,Pilsen Elementary Community Academy,Chicago,No,43,447,31,LOWER WEST SIDE
+610135,Portage Park Elementary School,Chicago,No,62,1139,15,PORTAGE PARK
+610138,Pulaski International Academy Elmentary School,Chicago,No,68,864,22,LOGAN SQUARE
+609842,Rachel Carson Elementary School,Chicago,No,38,1222,63,GAGE PARK
+609902,Ralph H Metcalfe Elementary Community Academy,Chicago,No,45,489,53,WEST PULLMAN
+610141,Ravenswood Elementary School,Chicago,No,45,465,6,LAKE VIEW
+609769,Ray Graham Training Center High School,Chicago,No,90,137,33,NEAR SOUTH SIDE
+609903,Richard Edwards Elementary School,Chicago,No,48,1503,57,ARCHER HEIGHTS
+610291,Richard Henry Lee Elementary School,Chicago,No,59,832,65,WEST LAWN
+610239,Richard J Daley Elementary Academy,Chicago,No,29,797,61,NEW CITY
+610102,Richard J Oglesby Elementary School,Chicago,No,44,402,71,AUBURN GRESHAM
+609702,Richard T Crane Technical Preparatory High School,Chicago,No,43,478,28,NEAR WEST SIDE
+610234,Richard Yates Elementary School,Chicago,No,42,690,22,LOGAN SQUARE
+609695,Roald Amundsen High School,Chicago,No,51,1532,4,LINCOLN SQUARE
+610350,Robert A Black Magnet Elementary School,Chicago,No,68,474,48,CALUMET HEIGHTS
+609906,Robert Emmet Elementary School,Chicago,No,37,460,25,AUSTIN
+609929,Robert Fulton Elementary School,Chicago,No,46,466,61,NEW CITY
+609979,Robert Healy Elementary School,Chicago,No,63,1384,60,BRIDGEPORT
+610045,Robert H Lawrence Elementary School,Chicago,No,19,371,51,SOUTH DEERING
+609956,Robert L Grimes Elementary School,Chicago,No,79,486,64,CLEARING
+610391,Robert Lindblom Math & Science Academy High School,Chicago,No,66,916,67,WEST ENGLEWOOD
+610252,Robert Nathaniel Dett Elementary School,Chicago,No,48,250,28,NEAR WEST SIDE
+609759,Roberto Clemente Community Academy High School,Chicago,No,44,1016,24,WEST TOWN
+610029,Rodolfo Lozano Bilingual & International Center Elementary School,Chicago,No,55,319,24,WEST TOWN
+609733,Roger C Sullivan High School,Chicago,No,30,826,1,ROGERS PARK
+610091,Ronald Brown Elementary Community Academy,Chicago,No,31,283,53,WEST PULLMAN
+610282,Ronald E McNair Elementary School,Chicago,No,31,422,25,AUSTIN
+609826,Rosario Castellanos Elementary School,Chicago,No,36,525,30,SOUTH LAWNDALE
+610056,Roswell B Mason Elementary School,Chicago,No,37,479,29,NORTH LAWNDALE
+610027,Rudyard Kipling Elementary School,Chicago,No,52,445,73,WASHINGTON HEIGHTS
+610250,Rueben Salazar Elementary Bilingual Center,Chicago,No,64,444,8,NEAR NORTH SIDE
+609995,Rufus M Hitch Elementary School,Chicago,Yes,64,542,10,NORWOOD PARK
+609853,Salmon P Chase Elementary School,Chicago,No,55,504,22,LOGAN SQUARE
+609943,Samuel Gompers Fine Arts Options Elementary School,Chicago,No,34,285,53,WEST PULLMAN
+610155,Sauganash Elementary School,Chicago,No,99,549,12,FOREST GLEN
+609805,Scott Joplin Elementary School,Chicago,No,35,538,71,AUBURN GRESHAM
+609968,Sharon Christa McAuliffe Elementary School,Chicago,Yes,45,862,20,HERMOSA
+610157,Sidney Sawyer Elementary School,Chicago,No,57,1846,63,GAGE PARK
+610283,Simon Guggenheim Elementary School,Chicago,No,30,291,68,ENGLEWOOD
+610521,Sir Miles Davis Magnet Elementary Academy,Chicago,No,35,354,67,WEST ENGLEWOOD
+610534,Skinner North,Chicago,No,45,242,8,NEAR NORTH SIDE
+610226,Socorro Sandoval Elementary School,Chicago,No,45,1186,63,GAGE PARK
+610160,Songhai Elementary Learning Institute,Chicago,No,17,352,53,WEST PULLMAN
+609990,South Loop Elementary School,Chicago,No,84,795,33,NEAR SOUTH SIDE
+610530,South Shore Fine Arts Academy,Chicago,No,45,255,43,SOUTH SHORE
+609745,Southside Occupational Academy High School,Chicago,No,5,201,67,WEST ENGLEWOOD
+610183,Spencer Technology Academy,Chicago,No,35,811,25,AUSTIN
+610357,Spry Community Links High School,Chicago,No,70,205,30,SOUTH LAWNDALE
+609880,Stephen Decatur Classical Elementary School,Chicago,No,99,289,2,WEST RIDGE
+609933,Stephen F Gale Elementary Community Academy,Chicago,No,39,532,1,ROGERS PARK
+609976,Stephen K Hayt Elementary School,Chicago,No,72,1000,77,EDGEWATER
+609724,Stephen T Mather High School,Chicago,No,58,1657,2,WEST RIDGE
+610191,Stone Elementary Scholastic Academy,Chicago,No,78,646,2,WEST RIDGE
+610405,Suder Montessori Magnet Elementary School,Chicago,No,45,351,28,NEAR WEST SIDE
+610249,Talman Elementary School,Chicago,No,99,376,63,GAGE PARK
+610396,Tarkington School of Excellence Elementary School,Chicago,No,48,1070,66,CHICAGO LAWN
+610506,TEAM Englewood Community Academy High School,Chicago,No,45,440,68,ENGLEWOOD
+609921,Telpochcalli Elementary School,Chicago,No,42,285,30,SOUTH LAWNDALE
+609991,Theodore Herzl Elementary School,Chicago,No,41,512,29,NORTH LAWNDALE
+609728,Theodore Roosevelt High School,Chicago,No,42,1490,14,ALBANY PARK
+610178,Theophilus Schmid Elementary School,Chicago,No,46,185,50,PULLMAN
+609794,Thomas A Edison Regional Gifted Center Elementary School,Chicago,No,91,269,14,ALBANY PARK
+609987,Thomas A Hendricks Elementary Community Academy,Chicago,No,33,307,37,FULLER PARK
+609851,Thomas Chalmers Specialty Elementary School,Chicago,No,34,288,29,NORTH LAWNDALE
+609896,Thomas Drummond Elementary School,Chicago,No,72,352,22,LOGAN SQUARE
+610002,Thomas Hoyne Elementary School,Chicago,No,67,288,48,CALUMET HEIGHTS
+610295,Thomas J Higgins Elementary Community Academy,Chicago,No,45,369,53,WEST PULLMAN
+610220,Thomas J Waters Elementary School,Chicago,No,85,590,4,LINCOLN SQUARE
+609715,Thomas Kelly High School,Chicago,No,36,2883,58,BRIGHTON PARK
+610321,Thurgood Marshall Middle School,Chicago,No,39,435,16,IRVING PARK
+609895,Turner-Drew Elementary Language Academy,Chicago,No,56,373,49,ROSELAND
+610394,Uplift Community High School,Chicago,No,50,473,3,UPTOWN
+610504,Velma F Thomas Early Childhood Center,Chicago,No,45,211,59,MCKINLEY PARK
+609989,Victor Herbert Elementary School,Chicago,No,50,398,28,NEAR WEST SIDE
+609944,Virgil Grissom Elementary School,Chicago,No,62,330,55,HEGEWISCH
+610518,VOISE Academy High School,Chicago,No,42,410,25,AUSTIN
+610363,Walt Disney Magnet Elementary School,Chicago,No,45,1651,3,UPTOWN
+610095,Walter L Newberry Math & Science Academy Elementary School,Chicago,No,71,558,7,LINCOLN PARK
+609680,Walter Payton College Preparatory High School,Chicago,No,98,881,8,NEAR NORTH SIDE
+609955,Walter Q Gresham Elementary School,Chicago,No,25,359,71,AUBURN GRESHAM
+610264,Walter Reed Elementary School,Chicago,No,29,44,68,ENGLEWOOD
+609855,Walter S Christopher Elementary School,Chicago,No,45,279,63,GAGE PARK
+610179,Washington D Smyser Elementary School,Chicago,No,55,1047,15,PORTAGE PARK
+610121,Washington Irving Elementary School,Chicago,No,43,482,28,NEAR WEST SIDE
+609740,Wells Community Academy High School,Chicago,No,51,633,24,WEST TOWN
+610032,Wendell E Green Elementary School,Chicago,No,32,254,73,WASHINGTON HEIGHTS
+609727,Wendell Phillips Academy High School,Chicago,No,45,590,35,DOUGLAS
+609978,Wendell Smith Elementary School,Chicago,No,22,363,50,PULLMAN
+610100,West Park Elementary Academy,Chicago,No,29,686,23,HUMBOLDT PARK
+610224,West Pullman Elementary School,Chicago,No,23,343,53,WEST PULLMAN
+610542,West Ridge Elementary School,Chicago,No,67,659,2,WEST RIDGE
+609755,Whitney M Young Magnet High School,Chicago,No,95,2166,28,NEAR WEST SIDE
+610230,Wildwood Elementary School,Chicago,Yes,99,414,12,FOREST GLEN
+610251,Willa Cather Elementary School,Chicago,No,69,234,27,EAST GARFIELD PARK
+610299,William A Hinton Elementary School,Chicago,No,18,321,68,ENGLEWOOD
+610109,William Bishop Owen Scholastic Academy Elementary School,Chicago,No,49,243,70,ASHBURN
+610101,William B Ogden Elementary School,Chicago,No,45,722,8,NEAR NORTH SIDE
+609945,William C Goudy Elementary School,Chicago,No,70,805,3,UPTOWN
+610143,William C Reavis Math & Science Specialty Elementary School,Chicago,No,48,311,39,KENWOOD
+610364,William E B Dubois Elementary School,Chicago,No,47,184,54,RIVERDALE
+609884,William E Dever Elementary School,Chicago,No,67,843,17,DUNNING
+609967,William F Finkl Elementary School,Chicago,No,56,588,31,LOWER WEST SIDE
+609994,William G Hibbard Elementary School,Chicago,No,45,1239,14,ALBANY PARK
+609812,William H Brown Elementary School,Chicago,No,36,217,28,NEAR WEST SIDE
+610023,William H King Elementary School,Chicago,No,47,264,28,NEAR WEST SIDE
+609734,William Howard Taft High School,Chicago,Yes,61,2922,10,NORWOOD PARK
+610136,William H Prescott Elementary School,Chicago,No,90,240,7,LINCOLN PARK
+610142,William H Ray Elementary School,Chicago,No,69,654,41,HYDE PARK
+610153,William H Ryder Math & Science Specialty Elementary School,Chicago,No,34,302,71,AUBURN GRESHAM
+610167,William H Seward Communication Arts Academy Elementary School,Chicago,No,40,896,61,NEW CITY
+609698,William J Bogan High School,Chicago,No,20,1656,70,ASHBURN
+610061,William J & Charles H Mayo Elementary School,Chicago,No,52,453,35,DOUGLAS
+610104,William J Onahan Elementary School,Chicago,No,64,687,10,NORWOOD PARK
+609678,William Jones College Preparatory High School,Chicago,No,92,871,32,LOOP
+610193,William K New Sullivan Elementary School,Chicago,No,27,527,46,SOUTH CHICAGO
+610123,William Penn Elementary School,Chicago,No,78,423,29,NORTH LAWNDALE
+609949,William P Gray Elementary School,Chicago,No,57,1345,15,PORTAGE PARK
+610097,William P Nixon Elementary School,Chicago,No,52,1061,20,HERMOSA
+609711,William Rainey Harper High School,Chicago,No,22,621,67,WEST ENGLEWOOD
+610232,Williams Multiplex Elementary School,Chicago,No,45,266,35,DOUGLAS
+610336,Williams Preparatory Academy Middle School,Chicago,No,49,125,35,DOUGLAS
+610172,William T Sherman Elementary School,Chicago,No,32,462,61,NEW CITY
+609844,William W Carter Elementary School,Chicago,No,13,371,40,WASHINGTON PARK
+610088,Wolfgang A Mozart Elementary School,Chicago,No,41,748,22,LOGAN SQUARE
+609977,Woodlawn Community Elementary School,Chicago,No,70,238,42,WOODLAWN
+610392,World Language Academy High School,Chicago,No,51,382,30,SOUTH LAWNDALE

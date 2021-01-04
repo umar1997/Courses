@@ -1,0 +1,11 @@
+If more than n/2 photos belong to the same species, then firstly print 
+the randomly generated list (comma separated) followed by SUCCESS 
+in the next line and comma separated list of the indices of those photos in the third line, 
+otherwise print FAILURE. Please see the example below.
+
+------------------------------------------------------------------------------------------ 
+n = 15
+m = 3
+[1, 2, 3, 3, 1, 2, 2, 1, 2, 2, 3, 2, 2, 2, 1]
+SUCESS
+[1, 5, 6, 8, 9, 11, 12, 13]

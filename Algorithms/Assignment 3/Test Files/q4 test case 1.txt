@@ -1,0 +1,33 @@
+In Q4, there are values associated with each of the nodes of the binary tree. 
+In your code, provide the following two options:
+(1) read values of the nodes from an array (see example below)
+(2) assign random values to the nodes.
+
+While grading your assignment, the TA will replace the array in your 
+code with test values to check the output.
+
+For example, the following array represents the tree 
+given below the dotted line. Note: The tree below the dotted line is only 
+to illustrate which values in the array are assigned to which nodes. 
+You don't have to read the tree in that format.
+
+
+{17, 20, 4, 5, 7, 35, 6, 3, 6, 16, 12, 18, 1, 2, 3}
+
+------------------------------
+n 15
+c1;17: c2, c3
+c2;20: c4, c5
+c3;4: c6, c7
+c4;5: x1, x2
+c5;7: x3, x4
+c6;35: x5, x6
+c7;6: x7, x8
+x1;3: leaf
+x2;6: leaf
+x3;16: leaf
+x4;12: leaf
+x5;18: leaf
+x6;1: leaf
+x7;2: leaf
+x8;3: leaf

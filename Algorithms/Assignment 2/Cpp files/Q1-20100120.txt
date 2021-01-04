@@ -1,0 +1,10 @@
+Q1
+
+Two sets of sticks of each size of n. With one colored as blue and labeled:  Lb1,Lb2,Lb3,....,Lbn  and the red labeled as: Lr1,Lr2,Lr3,....,Lrn  Both set of sticks are sorted in an increasing order. 
+Output: Pairs of (Lrx,Lby) with upto n pairs where 1 n
+∑(|Lrx,Lby|) is minimized. Here x and y range 
+from 1 to n. 
+Consider the following algorithm for A to compute S: 
+1) Sort both the colored list in increasing order 2) Take the first terms from both the sorted lists and pair them up. 3) If the list is not empty, then go back to Step 2. Let A = {(ar1,ab1),(ar2,ab2),(ar3,ab3),....,(arn,abn)} be the arbitrary list resulted from the above algorithm. 
+Let O be an Optimal solution:  O = {(or1,ob1),(or2,ob2),(or3,ob3),....,(orn,obn)} If A is not equal to O then there exist a pair (ori,obi) ∈ O which doesn’t belong to A. Instead two different pairs (ori,obj) and (orh,obi) exist in A. There will be two cases: 1) The difference between (ori,obi) is greater than or equal to either of the pairs in A which makes A already a better performing or the same as Optimal answer. 2) The difference of (ori,obi) is lesser than one of the two pairs (ori,obj) and (orh,obi). Then the pairs of orh or obj in O will have bigger difference than the pairs in A which makes A’s answer cumulatively more optimal than O as the sum of differences will be lower. Or there will eventually come a pair (arx,aby) in A which will have a significantly lower difference than the corresponding sticks in O. Since if arx increases then aby also increases as the pairs were made by sorted lists. This shows that eventually the difference will be compensated in the pairs of O.  
+This proves that O will be similar to A cumulatively or A will  be better than O.

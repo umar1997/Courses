@@ -1,0 +1,1 @@
+Stable Matching: A1 P5, A2 P1, A3 P4, A4 P6, A5 P3, A6 P2
